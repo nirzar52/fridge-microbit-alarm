@@ -9,7 +9,7 @@
 
 # Makecode Links
 
-- Fridge: https://makecode.microbit.org/_aTdKEkAKKH7k
-- Client: https://makecode.microbit.org/_XCoX6jWcKHYF
+- Fridge: https://makecode.microbit.org/_WWKR7fiApM4i
+- Client: https://makecode.microbit.org/_8AHU77d4KTTe
 
 Special thanks to @huansi-guo, @mausamidesai, @VyomaShah13 !
