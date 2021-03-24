@@ -12,4 +12,8 @@
 - Fridge: https://makecode.microbit.org/_WWKR7fiApM4i
 - Client: https://makecode.microbit.org/_8AHU77d4KTTe
 
-Special thanks to @huansi-guo, @mausamidesai, @VyomaShah13 !
+# Video Demo
+
+- YouTube: https://youtu.be/fI_CLTLmkdQ
+
+Special thanks to @huansi-guo, @mausamidesai, @nirmal5202, @VyomaShah13!
